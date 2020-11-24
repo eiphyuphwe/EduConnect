@@ -1,4 +1,4 @@
-package eh.com.educonnect
+package eh.com.educonnect.ui.main.view
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,6 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
 import androidx.navigation.fragment.findNavController
+import eh.com.educonnect.R
 
 /**
  * A simple [Fragment] subclass as the second destination in the navigation.
